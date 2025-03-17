@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "67d02a8a3aeef72b420e4f94"
+  },
+  "graduation": {
+    "left": 2.4,
+    "right": 2
+  },
+  "glassColor": {
+    "left": "red",
+    "right": "red"
+  },
+  "mount": "metalic",
+  "mountColor": "blue",
+  "price": 120,
+  "name_supplier": "Googles Asocciated SL"
+}]
