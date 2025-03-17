@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "67d7f5b697733ae9bafa7454"
+  },
+  "name": "Charly B",
+  "address": "right street, 123",
+  "phone": "7878787878",
+  "mail": "charli@mail.com",
+  "date_register": "2023-03-23T00:00:00Z",
+  "last_shoppings": [
+    {
+      "$oid": "67d2d5c434e0c48f7d7e3bd9"
+    }
+  ]
+}]
