@@ -1,19 +1,19 @@
 [{
   "_id": {
-    "$oid": "67d02a8a3aeef72b420e4f94"
+    "$oid": "6808cb882552743fa1109f3e"
   },
-  "supplier_id": {
-    "$oid": "67d0229c3aeef72b420e4f88"
-  },
+  "marca": "rayban",
   "graduation": {
-    "left": 2.4,
-    "right": 2
+    "left": 23,
+    "right": 20
   },
-  "glassColor": {
+  "frame_type": "metallic",
+  "glass_color": {
     "left": "red",
-    "right": "red"
+    "right": "yellow"
   },
-  "mount": "metalic",
-  "mountColor": "blue",
-  "price": 120
+  "price": 120,
+  "provider_id": {
+    "$oid": "6808ca482552743fa1109f3a"
+  }
 }]
