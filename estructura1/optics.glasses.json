@@ -1,19 +1,30 @@
 [{
   "_id": {
-    "$oid": "6808cb882552743fa1109f3e"
+    "$oid": "680b71b9bcdcd266b84279bb"
   },
-  "marca": "rayban",
+  "brand": {
+    "id_brand": {
+      "$oid": "680b70f0bcdcd266b84279b6"
+    },
+    "name_brand": "Rayband"
+  },
   "graduation": {
-    "left": 23,
-    "right": 20
+    "left": 2.3,
+    "right": 2
   },
-  "frame_type": "metallic",
-  "glass_color": {
-    "left": "red",
-    "right": "yellow"
+  "mount": {
+    "type": "Metalica",
+    "color": "blue"
   },
-  "price": 120,
-  "provider_id": {
-    "$oid": "6808ca482552743fa1109f3a"
+  "price": 127,
+  "provider": {
+    "id_provider": {
+      "$oid": "6808ca482552743fa1109f3a"
+    },
+    "name_provider": "glass sl"
+  },
+  "color_glass": {
+    "left": "transparente",
+    "right": "transparente"
   }
 }]

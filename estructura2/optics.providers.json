@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6808ca482552743fa1109f3a"
+  },
+  "name": "glass sl",
+  "address": {
+    "street": "klj",
+    "number": "2B",
+    "floor": "",
+    "door": "",
+    "city": "ciudad",
+    "cp": "08000",
+    "country": "pais"
+  },
+  "phone": "89899889",
+  "fax": "3333",
+  "nif": "123"
+}]

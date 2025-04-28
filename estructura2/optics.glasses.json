@@ -1,17 +1,30 @@
 [{
   "_id": {
-    "$oid": "67d02a8a3aeef72b420e4f94"
+    "$oid": "680b71b9bcdcd266b84279bb"
+  },
+  "brand": {
+    "id_brand": {
+      "$oid": "680b70f0bcdcd266b84279b6"
+    },
+    "name_brand": "Rayband"
   },
   "graduation": {
-    "left": 2.4,
+    "left": 2.3,
     "right": 2
   },
-  "glassColor": {
-    "left": "red",
-    "right": "red"
+  "mount": {
+    "type": "Metalica",
+    "color": "blue"
   },
-  "mount": "metalic",
-  "mountColor": "blue",
-  "price": 120,
-  "name_supplier": "Googles Asocciated SL"
+  "price": 127,
+  "provider": {
+    "id_provider": {
+      "$oid": "6808ca482552743fa1109f3a"
+    },
+    "name_provider": "glass sl"
+  },
+  "color_glass": {
+    "left": "transparente",
+    "right": "transparente"
+  }
 }]

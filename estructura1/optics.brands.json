@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "680b70f0bcdcd266b84279b6"
+  },
+  "name": "Rayband",
+  "providers": {
+    "id_provider": {
+      "$oid": "6808ca482552743fa1109f3a"
+    },
+    "name_provider": "glass sl"
+  }
+}]

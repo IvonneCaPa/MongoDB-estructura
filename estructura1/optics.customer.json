@@ -1,6 +1,6 @@
 [{
   "_id": {
-    "$oid": "6808c8e62552743fa1109f38"
+    "$oid": "6808c8e62552743fa1109f40"
   },
   "name": "Laura",
   "address": "calle 2",
@@ -10,17 +10,28 @@
   "recommended_by": {
     "$oid": "6808c42c2552743fa1109f34"
   },
-  "last_purchase": {
-    "brand": "rayban",
-    "graduation": {
-      "left": 23,
-      "rigth": 20
-    },
-    "glass_color": {
-      "left": "yellow",
-      "riegt": "red"
-    },
-    "frame_type": "Metallic",
-    "price": 120
-  }
+  "latest_sale": [
+    {
+      "id_latest_sale": {
+        "$oid": "6808ce6c2552743fa1109f4b"
+      },
+      "date_latest_sale": "2025-12-14T11:00:22Z",
+      "glass": {
+        "id_glass": {
+          "$oid": "680b71b9bcdcd266b84559bb"
+        },
+        "name_brand": "Rayband",
+        "graduation": {
+          "left": 2.3,
+          "right": 2
+        },
+        "color_glass": {
+          "left": "transparente",
+          "right": "transparente"
+        },
+        "mount_type": "Metalica",
+        "price": 127
+      }
+    }
+  ]
 }]

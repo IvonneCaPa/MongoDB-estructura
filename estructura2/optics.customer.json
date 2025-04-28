@@ -1,23 +1,13 @@
 [{
   "_id": {
-    "$oid": "67d7f5b697733ae9bafa7454"
+    "$oid": "6808c8e62552743fa1109f40"
   },
-  "name": "Charly B",
-  "address": "right street, 123",
-  "phone": "7878787878",
-  "mail": "charli@mail.com",
-  "date_register": "2023-03-23T00:00:00Z"
-},
-{
-  "_id": {
-    "$oid": "67d85ac34627b80d25e43a64"
-  },
-  "name": "Mafalda B",
-  "address": "right street, 123",
-  "phone": "7878787878",
-  "mail": "charli@mail.com",
-  "date_register": "2023-03-23T00:00:00Z",
-  "Id_client_recommended": {
-    "$oid": "67d7f5b697733ae9bafa7454"
+  "name": "Laura",
+  "address": "calle 2",
+  "phone": "12312223",
+  "email": "laura@info.com",
+  "register_data": "2025-02-12T12:00:00Z",
+  "recommended_by": {
+    "$oid": "6808c42c2552743fa1109f34"
   }
 }]
